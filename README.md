@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @ZeusPod
+
+[![cabeceragithub.png](https://i.postimg.cc/D0nmWnZQ/cabeceragithub.png)](https://postimg.cc/0MX9Fg7r)                           
+
+
 - 👀 I’m interested in learn more and more about Python programming
 - 🌱 I’m currently learning Python , HTML , Css , JS , and some Python 
-Frameworks as Flask and Django 
-- 💞️ I’m looking to collaborate on ...
+      Frameworks as Flask and Django 
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
 <!---
