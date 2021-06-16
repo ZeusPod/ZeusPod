@@ -5,8 +5,8 @@
 - 👀 I’m interested in learn more and more about Python programming
 - 🌱 I’m currently learning Python , HTML , Css , JS , and some Python 
       Frameworks as Flask and Django 
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate any open source project
+- 📫 How to reach me ... josseluism@gmail.com
 
 <!---
 ZeusPod/ZeusPod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
