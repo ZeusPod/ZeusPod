@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeuspod" alt="zeuspod" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/izeuspod" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/izeuspod?logo=twitter&style=for-the-badge" alt="https://twitter.com/izeuspod" /></a> </p>
+<p align="left"> <a href="https://twitter.com/izeuspod" target="blank"><img src="https://img.shields.io/twitter/follow/izeuspod?logo=twitter&style=for-the-badge" alt="izeuspod" /></a> </p>
 
 - 🌱 I’m currently learning **Django, Flask**
 
@@ -25,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/izeuspod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/izeuspod" height="30" width="40" /></a>
+<a href="https://twitter.com/izeuspod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="izeuspod" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/josemorales81/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/josemorales81/" height="30" width="40" /></a>
 </p>
 
