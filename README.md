@@ -1,6 +1,5 @@
 
-[![cabeceragithub.png](https://i.postimg.cc/D0nmWnZQ/cabeceragithub.png)](https://postimg.cc/0MX9Fg7r)                           
-
+                    
 
 <h1 align="center">Hi 👋, I'm Jose Morales</h1>
 <h3 align="center">A passionate Python and Frontend developer from Venezuela</h3>
