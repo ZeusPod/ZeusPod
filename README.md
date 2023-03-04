@@ -2,7 +2,7 @@
                     
 
 <h1 align="center">Hi 👋, I'm Jose Morales</h1>
-<h3 align="center">A passionate Python and Frontend developer from Venezuela</h3>
+<h3 align="center">A passionate Python fullstack developer from Venezuela</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeuspod&label=Profile%20views&color=0e75b6&style=flat" alt="zeuspod" /> </p>
 
