@@ -35,3 +35,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeuspod&show_icons=true&locale=en&layout=compact" alt="zeuspod" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zeuspod&show_icons=true&theme=radical" alt="zeuspod" /></p>
+
+
+<h3>Badges</h3>
+
+[![An image of @zeuspod1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/zeuspod1)](https://holopin.io/@zeuspod1)
+
