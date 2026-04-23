@@ -10,8 +10,9 @@
 <p align="left"> <a href="https://twitter.com/izeuspod" target="blank"><img src="https://img.shields.io/twitter/follow/izeuspod?logo=twitter&style=for-the-badge" alt="izeuspod" /></a> </p>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ZeusPod)](https://github.com/ryo-ma/github-profile-trophy)
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ZeusPod&theme=flat&no-frame=true&margin-w=15" alt="trophy" />
+</p>
 
 - 🌱 I’m currently learning **Django, Flask & FastApi**
 
